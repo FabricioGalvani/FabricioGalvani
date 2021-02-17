@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabricio Galvani</h1>
 <h3 align="center">A passionate Data Engineer from Vitória-ES</h3>
 
-- 🔭 I’m currently working on [LiberFly](https://www.liberfly.com.br/)
+- 🔭 I’m currently working on [Zup](https://www.zup.com.br/)
 
 - 📫 How to reach me **fabriciogalvani1@hotmail.com**
 
