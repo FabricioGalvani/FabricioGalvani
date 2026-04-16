@@ -21,6 +21,8 @@
 - Senior Data Engineer at **Zup Innovation**, working on the DataOps Squad at **Banco Itaú**
 - Based in **Vitória, Espírito Santo, Brazil**
 - Experienced in designing and implementing **Data Lakes**, **Lakehouses**, and **streaming data platforms**
+- Building **AI Agents** and leveraging **Generative AI** tools to accelerate engineering workflows
+- Driving **data democratization** in **Data Mesh** architectures
 - Passionate about **Data Engineering**, **Cloud Computing**, **Generative AI**, and **open-source technologies**
 - Writing about data and tech on [Medium](https://medium.com/@fabriciozambomgalvani)
 
@@ -65,6 +67,21 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Generative AI & AI Agents**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-4A154B?style=flat-square&logo=cognition&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=openai&logoColor=white)
+
+**Data Architecture**
+
+![Data Mesh](https://img.shields.io/badge/Data_Mesh-0A0A0A?style=flat-square&logo=databricks&logoColor=white)
+![Data Lakehouse](https://img.shields.io/badge/Data_Lakehouse-003366?style=flat-square&logo=apache&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data_Lake-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Languages & Databases**
 
